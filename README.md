@@ -1,6 +1,8 @@
 
 
-# Collaborators:
+# Approximating High-Dimensional Minimal Surfaces with Physics-Informed Neural Networks
+
+### Collaborators:
 
 Steven Zhou 
 
